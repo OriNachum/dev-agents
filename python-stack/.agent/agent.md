@@ -1,0 +1,1 @@
+This is a base folder for Python based applications. It includes a basic local env script for windows and mac, and requirements.txt with dotenv support.
